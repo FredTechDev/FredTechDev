@@ -1,3 +1,10 @@
+#Animated SVG intoduction
+[![](https://visitcount.itsvg.in/api?id=FredTechDev&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+a+Software+Developer;Welcome+to+my+GitHub+Profile;I+love+Building+Cool+Things" />
+</p>
+
+
 # 💫 About Me:
 Am Fredrick Onyango, A second year University student of<br>bachelor's degree in Information Technology.<br><br>I am a tech enthusiast currently focusing in broddening my <br>backend development knowledge. Apart from that I have tackled<br>and still learning data Science, data analysis and Machine learning<br> Also I have frontend experience<br> <br>Problem solving and building at large
 
@@ -16,9 +23,6 @@ Am Fredrick Onyango, A second year University student of<br>bachelor's degree in
 ![](https://github-contributor-stats.vercel.app/api?username=FredTechDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FredTechDev&icon=2&color=0)](https://visitcount.itsvg.in)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+a+Software+Developer;Welcome+to+my+GitHub+Profile;I+love+Building+Cool+Things" />
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
