@@ -17,5 +17,8 @@ Am Fredrick Onyango, A second year University student of<br>bachelor's degree in
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FredTechDev&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+a+Software+Developer;Welcome+to+my+GitHub+Profile;I+love+Building+Cool+Things" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
