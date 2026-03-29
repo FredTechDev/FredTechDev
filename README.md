@@ -6,12 +6,13 @@
 
 ```bash
 > whoami
-YourName.exe
+Fredrick Omondi
 
 > specialization
-Cyberpunk Developer | Code Architect | Digital Explorer
+Fullstack Dev: Data science : Machine Learning and AI enthusiast
 
 > status
+currently student at MMUST
 Connected to the grid ⚡
 ```
 
@@ -32,9 +33,9 @@ Connected to the grid ⚡
 
 ```bash
 Languages:   Python | JavaScript | TypeScript | C++
-Frontend:    React | Next.js | Tailwind
-Backend:     Node.js | Django | Express
-Database:    PostgreSQL | MongoDB
+Frontend:    React | Next.js | Tailwind : CSS3 : HTML5
+Backend:     Node.js | Django | Express 
+Database:    PostgreSQL | MongoDB : SQLite3 : MySQL
 Systems:     Linux | Docker | Git
 ```
 
