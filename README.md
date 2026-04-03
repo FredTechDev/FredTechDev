@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hello!;I'm+Fredrick Onyango;A+Fullstack + developer;Passionate+about+AI+and+machine+Learning;The+Founder+of+Apex+;Developer+in+cinecreatives;Let's+connect!">
+
 # 💫 About Me:
 I am Fredrick Onyango, a fullstack developer currently a student at <br>Masinde Muliro University of Science and technology<br>Am a generally enthusiastic person more perticurlarly when it comes to tech<br>i also have a teachable spirit.<br>My aspirations reside in Machine Learning and AI alongside Data Science<br>besides all these am part of a startup,Cine Creatives where we build intutive products.<br>am also the founder of apex, a mini-personal startup with a scope <br>of producing the finest of products for user experience escalation<br>
 
