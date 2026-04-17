@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!+👋;I'm+Fredrick+Onyango;A+Fullstack+Developer;Passionate+about+AI+and+Machine+Learning;Founder+of+Apex;Developer+at+CineCreatives;Let's+connect!&center=true&width=600&height=50">
 </p>
 
@@ -29,3 +29,4 @@ I am Fredrick Onyango, a fullstack developer currently a student at <br>Masinde 
 [![](https://visitcount.itsvg.in/api?id=FredTechDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://advanced-portfolio-khaki.vercel.app/)
