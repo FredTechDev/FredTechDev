@@ -1,58 +1,133 @@
+# 👋 Hi, I'm Fredrick Omondi Onyango
+
+### Full-Stack Developer | Backend Engineer | AI/ML enthusiast
+
+Building scalable applications, designing robust APIs, and creating software that solves real-world problems.
+
+
+\
+
+---
+
+## 🚀 About Me
+
 ```java
-package io.github.yourusername;
+public class FredrickOmondi implements Developer {
 
-import io.github.yourusername.skills.*;
-import io.github.yourusername.interests.Coffee;
+    private final String role = "Full-Stack Developer";
+    private final String location = "Kenya 🇰🇪";
 
-/**
- * Passionate Backend Developer specialized in building robust enterprise applications.
- * Focused on writing clean, maintainable, and highly efficient Java code.
- */
-public class DeveloperProfile extends SoftwareEngineer implements Human {
+    private final String[] languages = {
+        "Java", "JavaScript", "TypeScript",
+        "Python", "SQL"
+    };
 
-    private final String name = "Your Name";
-    private final String currentRole = "Backend Engineer";
-    private final String location = "Your City, Country";
-    
-    // Core Engineering Tech Stack
-    private final String[] languages = {"Java", "SQL", "Kotlin", "JavaScript"};
-    private final String[] frameworks = {"Spring Boot", "Spring Cloud", "Hibernate", "JUnit5"};
-    private final String[] cloudAndTools = {"Docker", "Kubernetes", "AWS", "Git", "Maven"};
+    private final String[] backend = {
+        "Spring Boot", "Node.js",
+        "Express", "Django"
+    };
 
-    public DeveloperProfile() {
-        super(YearsOfExperience.THREE_PLUS);
+    private final String[] frontend = {
+        "React", "React Native",
+        "Next.js"
+    };
+
+    private final String[] databases = {
+        "MySQL", "PostgreSQL",
+        "MongoDB"
+    };
+
+    public void currentFocus() {
+        System.out.println("Building scalable applications");
+        System.out.println("Learning cloud-native architecture");
+        System.out.println("Contributing to open source");
     }
-
-    @Override
-    public void run() {
-        while (isAlive()) {
-            keepCoding();
-            drink(Coffee.BLACK);
-        }
-    }
-
-    public void keepCoding() {
-        System.out.println("Building scalable microservices...");
-        System.out.println("Optimizing database queries...");
-    }
-
-    // Getters for recruiters
-    public String getName() { return this.name; }
-    public String getRole() { return this.currentRole; }
-    public String[] getSkills() { return this.frameworks; }
 }
 ```
 
-### 🛠️ Metrics & Current Activity
-<!-- Optional: Add dynamic cards below your code snippet to track your work -->
+---
 
-<p align="left">
-  <img src="https://vercel.app" alt="Top Languages" />
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+## 💻 Tech Stack
 
-### 📬 Connect With Me
+### Languages
 
-* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* 📧 **Email:** `your.email@example.com`
-* 🌐 **Portfolio:** [yourwebsite.com](https://google.com)
+
+
+\
+
+### Backend
+
+
+\
+
+### Frontend
+
+\
+
+### Database & DevOps
+
+
+
+\
+
+---
+
+## 📊 GitHub Analytics
+
+---
+
+## 🔥 Contribution Streak
+
+---
+
+## 🏆 GitHub Trophies
+
+---
+
+## 🌱 Currently Learning
+
+* Cloud Architecture
+* Kubernetes & DevOps
+* System Design
+* Microservices Patterns
+* Distributed Systems
+
+---
+
+## 🚀 Featured Projects
+
+### Apex Rental Management System
+
+A digital platform for landlords and tenants to manage rentals efficiently.
+
+**Tech Stack:** Spring Boot, React, MySQL, Docker
+
+### Inventory Management System
+
+Real-time inventory tracking and analytics platform.
+
+**Tech Stack:** Java, Spring Boot, PostgreSQL
+
+### Mobile Service Application
+
+Cross-platform mobile application built with React Native.
+
+**Tech Stack:** React Native, Node.js, MySQL
+
+---
+
+## 📈 Activity Graph
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: https://linkedin.com/in/Fredrick Onyango
+* 📧 Email: [your.email@example.com](onyangofred1005@gmail.com)
+* 🌐 Portfolio: https://yourwebsite.com
+
+---
+
+### Thanks for visiting my profile! 🚀
+
+*"Code. Learn. Build. Repeat."*
