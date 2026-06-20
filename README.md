@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fredrick Onyango
 =========================================================================================================================================
 
-Fullstack Developer --Data scientist --AI/ML enthusiast
--------------------------------------------------------
+Developer at Cine Creatives | Founder of Apex – An AI-Powered Rental Intelligence Platform | Building Adaptive CBC Learning Solutions | Passionate About AI, Software Engineering, and Technology-Driven Innovation.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Developer at Cine Creatives, crafting innovative technology solutions for tomorrow's challenges. Founder & Lead Innovator at Apex, where we're redefining rental space automation and property management through intelligent software, automation, and modern digital experiences. Passionate about full-stack development, AI, cloud computing, and building technology that empowers businesses and communities.
 
@@ -22,22 +22,22 @@ Fullstack Developer --Data scientist --AI/ML enthusiast
 
 <p align="left"> <a href="https://www.github.com/FredTechDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Prince Frd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/Fredrick Onyango" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/FredTechDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/FredTechDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/Prince Frd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Prince Frd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/FredTechDev?logo=github&style=for-the-badge&color=64748b&labelColor=27272a" /></a><a href="https://www.x.com/Prince Frd" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Prince Frd?logo=twitter&style=for-the-badge&color=64748b&labelColor=27272a"
 /></a>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FredTechDev"><img src="https://github-readme-stats.vercel.app/api?username=FredTechDev&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FredTechDev's GitHub stats" /></a>
+<a href="http://www.github.com/FredTechDev"><img src="https://github-readme-stats.vercel.app/api?username=FredTechDev&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=27272a&hide_border=true&show_icons=true" alt="FredTechDev's GitHub stats" /></a>
 
-<a href="http://www.github.com/FredTechDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FredTechDev&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/FredTechDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FredTechDev&stroke=64748b&background=27272a&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/FredTechDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredTechDev&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/FredTechDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredTechDev&langs_count=10&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/FredTechDev/Rentals-Management-Solution-Apex" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FredTechDev&repo=Rentals-Management-Solution-Apex&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/FredTechDev/Rentals-Management-Solution-Apex" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FredTechDev&repo=Rentals-Management-Solution-Apex&title_color=64748b&text_color=64748b&icon_color=64748b&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
