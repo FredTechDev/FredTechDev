@@ -7,7 +7,7 @@ Developer at Cine Creatives | Founder of Apex – An AI-Powered Rental Intellige
 🚀 Developer at Cine Creatives, crafting innovative technology solutions for tomorrow's challenges. Founder & Lead Innovator at Apex, where we're redefining rental space automation and property management through intelligent software, automation, and modern digital experiences. Passionate about full-stack development, AI, cloud computing, and building technology that empowers businesses and communities.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [https://advanced-portfolio-khaki.vercel.app/](http://apexstates.cinecreatives.org)
+* 🖥️  See my portfolio at [https://fredrickonyango.vercel.app](http://apexstates.cinecreatives.org)
 * ✉️  You can contact me at [onyangofred1005@gmail.com](mailto:onyangofred1005@gmail.com)
 * 🚀  I'm currently working on [kilelearchade-a cbc-sed online learning platform dedicated to bring cbc school to ease for all stakeholders in education atmosphere that is(teachers, parents and students and to come soon school management)](http://kilelearchade.co.ke/)
 * 🧠  I'm currently learning AI/ML in advanced manner scoped to train efficient models
