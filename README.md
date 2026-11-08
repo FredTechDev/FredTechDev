@@ -170,7 +170,7 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fredrickonyango.co.ke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fredrickonyango.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FredTechDev)
 [![Synbree](https://img.shields.io/badge/Synbree-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://synbree.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyangofred1005@gmail.com)
