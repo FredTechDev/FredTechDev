@@ -1,13 +1,13 @@
-<!-- Animated Header -->
+<!-- Animated Profile Header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A43,100:00D9FF&height=220&section=header&text=FREDRICK%20ONYANGO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20TECHNOLOGY%20INNOVATOR&descSize=14&descAlignY=58&descColor=00D9FF" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+playground.;I+turn+complex+problems+into+elegant+systems.;Ideas+are+cheap.+Execution+is+the+real+magic.;Observe.+Architect.+Build.+Disrupt." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+playground.;I+study+systems.+I+engineer+possibilities.;Ideas+are+cheap.+Execution+is+the+real+magic.;Observe.+Calculate.+Engineer.+Execute." alt="Typing SVG" />
 </a>
 
-**Ideas are only the beginning. Execution is where the magic happens.**
+**Ideas. Software. Next.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fredrickonyango.co.ke)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FredTechDev)
@@ -20,96 +20,31 @@
 
 ## `01` — The Mind Behind the Machine
 
-> *"Every system has a weakness. Every problem has a structure. And every structure can be understood, redesigned, and engineered."*
+> *"I study the system, calculate the move, and engineer the outcome."*
 
-I'm **Fredrick Onyango** — a software developer, technology entrepreneur, and builder fascinated by the art of making complicated things work beautifully.
+I'm **Fredrick Onyango** — Software Engineer, Technology Entrepreneur, and relentless builder.
 
-Currently studying at **Masinde Muliro University of Science and Technology (MMUST)**, I spend my time designing systems, developing digital products, exploring artificial intelligence, and turning ambitious ideas into working technology.
+A Kenyan developer at **MMUST**, building digital products through **Synbree**, exploring AI, full-stack and mobile engineering, and turning ambitious ideas into working systems.
 
-I approach software engineering with a simple philosophy:
-
-**Understand the problem. Study the system. Calculate the move. Engineer the solution.**
-
-I don't believe in writing code just to make things work. I believe in building solutions that make sense, scale intelligently, and create measurable value.
-
-And sometimes, the most interesting part of solving a problem is knowing exactly which move to make before anyone else sees it coming.
+**Less noise. More engineering. Beyond imagination.**
 
 ---
 
 ## `02` — The Innovation Lab
 
-*Ideas under construction. Systems taking shape. Possibilities becoming products.*
+*Ideas becoming systems. Systems creating impact.*
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 [Synbree](https://synbree.vercel.app/)
-
-**Ideas. Software. Next.**
-
-A Kenyan software engineering and digital innovation brand building solutions for businesses, institutions, and individuals.
-
-*Building Beyond Imagination.*
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Apex-Rental
-
-**Property management, re-engineered.**
-
-A rental management platform designed to simplify property operations, tenant management, rent tracking, and everyday administration.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [Kilele Archade](https://kilelearchade.co.ke/)
-
-**Learning without boundaries.**
-
-A CBC-focused digital learning platform connecting learners, teachers, and parents through interactive learning, intelligent tutoring, and educational technology.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Zoomenet
-
-**Smarter network access.**
-
-A captive portal solution concept focused on helping internet service providers manage user access and network experiences.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Naoja Retail Shop
-
-**Retail operations, modernized.**
-
-A retail and e-commerce system focused on improving product management, business operations, and customer experiences.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 What's Next?
-
-**The laboratory never closes.**
-
-Exploring new ideas in AI, automation, software architecture, mobile applications, and intelligent digital systems.
-
-</td>
-</tr>
-</table>
+| Project | What it does |
+|---|---|
+| 🚀 **[Synbree](https://synbree.vercel.app/)** | Software engineering and digital innovation for businesses, institutions, and individuals. |
+| 🏢 **Apex-Rental** | Rental and property management automation. |
+| 🎓 **[Kilele Archade](https://kilelearchade.co.ke/)** | CBC-focused digital learning platform with intelligent learning tools. |
+| 🌐 **Zoomenet** | Captive portal and network access management concept for ISPs. |
+| 🛒 **Naoja Retail Shop** | Retail management and e-commerce modernization. |
 
 ---
 
 ## `03` — Engineering Arsenal
-
-*The tools are instruments. Engineering judgment is the real advantage.*
 
 ### Programming Languages
 
@@ -123,15 +58,15 @@ Exploring new ideas in AI, automation, software architecture, mobile application
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Frontend Engineering
+### Frontend Development
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 ### Mobile Application Development
@@ -144,7 +79,7 @@ Exploring new ideas in AI, automation, software architecture, mobile application
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-### Backend Engineering
+### Backend Development
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -191,34 +126,29 @@ Exploring new ideas in AI, automation, software architecture, mobile application
 
 ---
 
-## `04` — Beyond Writing Code
+## `04` — Engineering Philosophy
 
-I am particularly interested in the engineering principles that make software reliable, maintainable, and scalable.
-
-- **Software Architecture:** Domain-Driven Design, Hexagonal Architecture, Clean Architecture.
-- **Backend Systems:** API design, authentication, authorization, business logic, and data integrity.
-- **Mobile Engineering:** Cross-platform applications and mobile-first experiences.
-- **Artificial Intelligence:** Machine learning, intelligent automation, and AI-powered products.
-- **Cloud & DevOps:** Deployment, containers, infrastructure, and software delivery.
-- **Data Engineering:** Database modeling, analytics, and data-driven decision-making.
+- **Architecture:** Domain-Driven Design, Hexagonal Architecture, Clean Architecture.
+- **Backend:** APIs, authentication, authorization, scalable systems.
+- **Mobile:** Cross-platform development and mobile-first experiences.
+- **AI/ML:** Intelligent applications, machine learning, automation.
+- **Data:** Database design, analytics, data-driven solutions.
+- **Infrastructure:** Cloud computing, containers, CI/CD, DevOps.
 
 ---
 
 ## `05` — Current Mission
 
-My current direction is to become a stronger engineer by building, experimenting, teaching, and continuously improving.
-
-- Engineering production-oriented software products.
-- Deepening my understanding of Go, PostgreSQL, and backend architecture.
-- Exploring AI/ML engineering and practical AI integration.
-- Developing web and mobile applications.
-- Exploring cloud infrastructure and DevOps practices.
-- Building technology that addresses real challenges in the African market.
-- Sharing programming knowledge with the next generation of developers.
+- Building production-oriented software products.
+- Deepening expertise in Go, PostgreSQL, and backend architecture.
+- Exploring AI/ML engineering and intelligent applications.
+- Developing modern web and mobile experiences.
+- Advancing cloud infrastructure and DevOps skills.
+- Creating technology with meaningful impact in Africa.
 
 ---
 
-## `06` — GitHub Activity
+## `06` — GitHub Analytics
 
 <div align="center">
 
@@ -234,27 +164,22 @@ My current direction is to become a stronger engineer by building, experimenting
 
 ---
 
-## `07` — Let's Build Something
+## `07` — Connect
 
-I'm open to connecting with developers, founders, innovators, businesses, and people who believe technology can solve meaningful problems.
-
-Whether it's a software collaboration, an interesting engineering challenge, an internship opportunity, or a conversation about building something ambitious — let's connect.
+*Have an idea, a challenge, or something worth building? Let's talk.*
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fredrickonyango.co.ke)
-
-[![GitHub](https://img.shields.io/badge/Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FredTechDev)
-[![Email](https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyangofred1005@gmail.com)
-[![Synbree](https://img.shields.io/badge/Discover_Synbree-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://synbree.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fredrickonyango.co.ke)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FredTechDev)
+[![Synbree](https://img.shields.io/badge/Synbree-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://synbree.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onyangofred1005@gmail.com)
 
 ---
 
-### A Final Thought
+### "The most interesting systems are quietly engineered, carefully calculated, and impossible to ignore."
 
-*"The most interesting systems are not always the loudest. Some are carefully designed, quietly assembled, and impossible to ignore once they work."*
-
-**Observe. Calculate. Engineer. Execute.**
+**OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 
 <sub>Building beyond imagination — one system at a time.</sub>
 
