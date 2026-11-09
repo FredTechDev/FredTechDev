@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+playground.;I+study+systems.+I+engineer+possibilities.;Ideas+are+cheap.+Execution+is+the+real+magic.;Observe.+Calculate.+Engineer.+Execute." alt="Typing SVG" />
 </a>
 
-**Ideas. Software. Next.**
+**Building Beyond Imagination**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fredrickonyango.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FredTechDev)
