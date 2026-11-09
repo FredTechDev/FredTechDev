@@ -1,13 +1,16 @@
-<!-- Animated Profile Header -->
+# FREDRICK ONYANGO — ENGINEERING MODE
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A43,100:00D9FF&height=220&section=header&text=FREDRICK%20ONYANGO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20TECHNOLOGY%20INNOVATOR&descSize=14&descAlignY=58&descColor=00D9FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00D9FF&height=220&section=header&text=FREDRICK%20ONYANGO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20TECHNOLOGY%20INNOVATOR&descSize=14&descAlignY=58&descColor=00D9FF" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+playground.;I+study+systems.+I+engineer+possibilities.;Ideas+are+cheap.+Execution+is+the+real+magic.;Observe.+Calculate.+Engineer.+Execute." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=MONDAY+MODE%3A+FOCUS+%7C+PRECISION+%7C+EXECUTION;Another+week.+Another+system+to+engineer.;Think+clearly.+Build+intentionally.+Execute.;Ideas+are+cheap.+Execution+is+the+real+magic." alt="Typing SVG" />
 </a>
 
-**Building Beyond Imagination**
+### MONDAY // ENGINEERING MODE: ACTIVE
+
+**Building Beyond Imagination.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://fredrickonyango.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FredTechDev)
@@ -18,23 +21,25 @@
 
 ---
 
-## `01` — The Mind Behind the Machine
+## `01` — THE MIND BEHIND THE MACHINE
 
 > *"I study the system, calculate the move, and engineer the outcome."*
 
 I'm **Fredrick Onyango** — Software Engineer, Technology Entrepreneur, and relentless builder.
 
-A Kenyan developer at **MMUST**, building digital products through **Synbree**, exploring AI, full-stack and mobile engineering, and turning ambitious ideas into working systems.
+A Kenyan developer at **Masinde Muliro University of Science and Technology (MMUST)**, building digital products through **Synbree**, exploring AI, full-stack and mobile engineering, and turning ambitious ideas into working systems.
+
+I believe in understanding problems deeply, designing systems intelligently, and executing with precision.
 
 **Less noise. More engineering. Beyond imagination.**
 
 ---
 
-## `02` — The Innovation Lab
+## `02` — THE INNOVATION LAB
 
 *Ideas becoming systems. Systems creating impact.*
 
-| Project | What it does |
+| Project | Engineering Focus |
 |---|---|
 | 🚀 **[Synbree](https://synbree.vercel.app/)** | Software engineering and digital innovation for businesses, institutions, and individuals. |
 | 🏢 **Apex-Rental** | Rental and property management automation. |
@@ -44,7 +49,7 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 
 ---
 
-## `03` — Engineering Arsenal
+## `03` — ENGINEERING ARSENAL
 
 ### Programming Languages
 
@@ -58,7 +63,7 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-### Frontend Development
+### Frontend Engineering
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -79,7 +84,7 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-### Backend Development
+### Backend Engineering
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -126,18 +131,22 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 
 ---
 
-## `04` — Engineering Philosophy
+## `04` — ENGINEERING PHILOSOPHY
 
-- **Architecture:** Domain-Driven Design, Hexagonal Architecture, Clean Architecture.
-- **Backend:** APIs, authentication, authorization, scalable systems.
-- **Mobile:** Cross-platform development and mobile-first experiences.
-- **AI/ML:** Intelligent applications, machine learning, automation.
-- **Data:** Database design, analytics, data-driven solutions.
-- **Infrastructure:** Cloud computing, containers, CI/CD, DevOps.
+| Discipline | Approach |
+|---|---|
+| Architecture | Domain-Driven Design, Hexagonal Architecture, Clean Architecture. |
+| Backend | APIs, authentication, authorization, scalable systems. |
+| Mobile | Cross-platform development and mobile-first experiences. |
+| AI/ML | Intelligent applications, machine learning, automation. |
+| Data | Database design, analytics, data-driven solutions. |
+| Infrastructure | Cloud computing, containers, CI/CD, DevOps. |
 
 ---
 
-## `05` — Current Mission
+## `05` — THE CURRENT MISSION
+
+**This week. This quarter. The bigger picture.**
 
 - Building production-oriented software products.
 - Deepening expertise in Go, PostgreSQL, and backend architecture.
@@ -148,7 +157,7 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 
 ---
 
-## `06` — GitHub Analytics
+## `06` — GITHUB ANALYTICS
 
 <div align="center">
 
@@ -164,7 +173,7 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 
 ---
 
-## `07` — Connect
+## `07` — CONNECT
 
 *Have an idea, a challenge, or something worth building? Let's talk.*
 
@@ -181,7 +190,7 @@ A Kenyan developer at **MMUST**, building digital products through **Synbree**, 
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 
-<sub>Building beyond imagination — one system at a time.</sub>
+<sub>MONDAY IS NOT A MOOD. IT'S A STANDARD.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:050816&height=120&section=footer" width="100%" />
 
