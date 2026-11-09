@@ -1,14 +1,34 @@
-# FREDRICK ONYANGO — ENGINEERING MODE
+
+<!-- ======================================================
+     FREDRICK ONYANGO | GITHUB PROFILE
+     Daily Engineering Transmission enabled
+====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00D9FF&height=220&section=header&text=FREDRICK%20ONYANGO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20TECHNOLOGY%20INNOVATOR&descSize=14&descAlignY=58&descColor=00D9FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A43,100:00D9FF&height=220&section=header&text=FREDRICK%20ONYANGO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20TECHNOLOGY%20INNOVATOR&descSize=14&descAlignY=58&descColor=00D9FF" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=MONDAY+MODE%3A+FOCUS+%7C+PRECISION+%7C+EXECUTION;Another+week.+Another+system+to+engineer.;Think+clearly.+Build+intentionally.+Execute.;Ideas+are+cheap.+Execution+is+the+real+magic." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Observe.+Calculate.+Engineer.+Execute.;I+study+systems.+I+engineer+possibilities.;Ideas+are+cheap.+Execution+is+the+real+magic.;Building+systems+that+outlive+the+moment." alt="Typing SVG" />
 </a>
 
-### MONDAY // ENGINEERING MODE: ACTIVE
+### THE DAILY ENGINEERING TRANSMISSION
+
+<!-- DAILY-START -->
+
+### MONDAY // ENGINEERING MODE
+
+**09 NOVEMBER 2026**
+
+<sub>DAY 01 OF THE WEEK · DAY 313 OF THE YEAR · WEEK 46</sub>
+
+<sub>FOCUS MODE // STRATEGIC EXECUTION</sub>
+
+> *"The week does not reward those who announce their intentions, but those who quietly turn them into systems."*
+
+**OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
+
+<!-- DAILY-END -->
 
 **Building Beyond Imagination.**
 
@@ -146,8 +166,6 @@ I believe in understanding problems deeply, designing systems intelligently, and
 
 ## `05` — THE CURRENT MISSION
 
-**This week. This quarter. The bigger picture.**
-
 - Building production-oriented software products.
 - Deepening expertise in Go, PostgreSQL, and backend architecture.
 - Exploring AI/ML engineering and intelligent applications.
@@ -190,7 +208,7 @@ I believe in understanding problems deeply, designing systems intelligently, and
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 
-<sub>MONDAY IS NOT A MOOD. IT'S A STANDARD.</sub>
+<sub>Building beyond imagination — one system at a time.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:050816&height=120&section=footer" width="100%" />
 
