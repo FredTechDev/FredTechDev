@@ -3,17 +3,14 @@ name: Daily Engineering Transmission
 
 on:
   schedule:
-    # Midnight in Kenya (UTC+3)
-    - cron: "0 21 * * *"
-
-  # Allow manual execution from GitHub Actions
+    - cron: '0 21 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-profile:
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,21 +20,15 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
-      - name: Generate daily transmission
+      - name: Update daily transmission
         run: python scripts/daily_update.py
 
-      - name: Commit updated README
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          if git diff --quiet README.md; then
-            echo "README already up to date."
-          else
-            git add README.md
-            git commit -m "chore: update daily engineering transmission"
-            git push
-          fi
-
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update daily engineering transmission"
+          git push
