@@ -15,15 +15,15 @@
 ### THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### TUESDAY // ENGINEERING MODE
+### WEDNESDAY // ENGINEERING MODE
 
-**10 NOVEMBER 2026**
+**11 NOVEMBER 2026**
 
-<sub>DAY 02 OF THE WEEK · DAY 314 OF 365 · WEEK 46</sub>
+<sub>DAY 03 OF THE WEEK · DAY 315 OF 365 · WEEK 46</sub>
 
-<sub>DISCIPLINE MODE // CONSISTENCY OVER COMFORT</sub>
+<sub>PRECISION MODE // DEEP ENGINEERING</sub>
 
-> *"A system becomes powerful when consistency no longer requires motivation."*
+> *"The engineer who understands the smallest detail can influence the largest system."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
