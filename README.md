@@ -15,15 +15,15 @@
 ### THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### FRIDAY // ENGINEERING MODE
+### SATURDAY // ENGINEERING MODE
 
-**13 NOVEMBER 2026**
+**14 NOVEMBER 2026**
 
-<sub>DAY 05 OF THE WEEK · DAY 317 OF 365 · WEEK 46</sub>
+<sub>DAY 06 OF THE WEEK · DAY 318 OF 365 · WEEK 46</sub>
 
-<sub>EXECUTION MODE // DELIVER RESULTS</sub>
+<sub>EXPLORATION MODE // LEARN AND BUILD</sub>
 
-> *"Measure progress by what works, not by what you intended to build."*
+> *"Explore beyond your stack. The next solution may live outside your comfort zone."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
