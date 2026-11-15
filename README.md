@@ -15,15 +15,15 @@
 ### THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### SATURDAY // ENGINEERING MODE
+### SUNDAY // ENGINEERING MODE
 
-**14 NOVEMBER 2026**
+**15 NOVEMBER 2026**
 
-<sub>DAY 06 OF THE WEEK · DAY 318 OF 365 · WEEK 46</sub>
+<sub>DAY 07 OF THE WEEK · DAY 319 OF 365 · WEEK 46</sub>
 
-<sub>EXPLORATION MODE // LEARN AND BUILD</sub>
+<sub>REFLECTION MODE // RESET AND RETHINK</sub>
 
-> *"Explore beyond your stack. The next solution may live outside your comfort zone."*
+> *"A pause is not a retreat. Sometimes it is where the next strategy becomes visible."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
