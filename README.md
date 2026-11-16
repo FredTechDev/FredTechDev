@@ -15,15 +15,15 @@
 ### THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### SUNDAY // ENGINEERING MODE
+### MONDAY // ENGINEERING MODE
 
-**15 NOVEMBER 2026**
+**16 NOVEMBER 2026**
 
-<sub>DAY 07 OF THE WEEK · DAY 319 OF 365 · WEEK 46</sub>
+<sub>DAY 01 OF THE WEEK · DAY 320 OF 365 · WEEK 47</sub>
 
-<sub>REFLECTION MODE // RESET AND RETHINK</sub>
+<sub>FOCUS MODE // STRATEGIC EXECUTION</sub>
 
-> *"A pause is not a retreat. Sometimes it is where the next strategy becomes visible."*
+> *"Clarity is the architecture of execution. Know the objective before making the move."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
