@@ -15,15 +15,15 @@
 ### THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### MONDAY // ENGINEERING MODE
+### TUESDAY // ENGINEERING MODE
 
-**16 NOVEMBER 2026**
+**17 NOVEMBER 2026**
 
-<sub>DAY 01 OF THE WEEK · DAY 320 OF 365 · WEEK 47</sub>
+<sub>DAY 02 OF THE WEEK · DAY 321 OF 365 · WEEK 47</sub>
 
-<sub>FOCUS MODE // STRATEGIC EXECUTION</sub>
+<sub>DISCIPLINE MODE // CONSISTENCY OVER COMFORT</sub>
 
-> *"Clarity is the architecture of execution. Know the objective before making the move."*
+> *"The difference between intention and achievement is often an ordinary decision repeated."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
