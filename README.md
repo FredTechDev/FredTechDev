@@ -1,9 +1,3 @@
-
-<!-- ======================================================
-     FREDRICK ONYANGO | GITHUB PROFILE
-     Daily Engineering Transmission enabled
-====================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A43,100:00D9FF&height=220&section=header&text=FREDRICK%20ONYANGO&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20TECHNOLOGY%20INNOVATOR&descSize=14&descAlignY=58&descColor=00D9FF" width="100%" />
@@ -11,11 +5,10 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Observe.+Calculate.+Engineer.+Execute.;I+study+systems.+I+engineer+possibilities.;Ideas+are+cheap.+Execution+is+the+real+magic.;Building+systems+that+outlive+the+moment." alt="Typing SVG" />
 </a>
-
-### THE DAILY ENGINEERING TRANSMISSION
+THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### TUESDAY // ENGINEERING MODE
+TUESDAY // ENGINEERING MODE
 
 **17 NOVEMBER 2026**
 
