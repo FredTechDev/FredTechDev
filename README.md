@@ -8,15 +8,15 @@
 THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-TUESDAY // ENGINEERING MODE
+### WEDNESDAY // ENGINEERING MODE
 
-**17 NOVEMBER 2026**
+**18 NOVEMBER 2026**
 
-<sub>DAY 02 OF THE WEEK · DAY 321 OF 365 · WEEK 47</sub>
+<sub>DAY 03 OF THE WEEK · DAY 322 OF 365 · WEEK 47</sub>
 
-<sub>DISCIPLINE MODE // CONSISTENCY OVER COMFORT</sub>
+<sub>PRECISION MODE // DEEP ENGINEERING</sub>
 
-> *"The difference between intention and achievement is often an ordinary decision repeated."*
+> *"Precision is not doing more. It is removing everything that does not belong."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
