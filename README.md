@@ -8,15 +8,15 @@
 THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### THURSDAY // ENGINEERING MODE
+### FRIDAY // ENGINEERING MODE
 
-**19 NOVEMBER 2026**
+**20 NOVEMBER 2026**
 
-<sub>DAY 04 OF THE WEEK · DAY 323 OF 365 · WEEK 47</sub>
+<sub>DAY 05 OF THE WEEK · DAY 324 OF 365 · WEEK 47</sub>
 
-<sub>INNOVATION MODE // EXPERIMENTATION</sub>
+<sub>EXECUTION MODE // DELIVER RESULTS</sub>
 
-> *"The future is not discovered by waiting. It is engineered through deliberate experiments."*
+> *"The final mile separates impressive plans from useful systems."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
