@@ -8,15 +8,15 @@
 THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### FRIDAY // ENGINEERING MODE
+### SATURDAY // ENGINEERING MODE
 
-**20 NOVEMBER 2026**
+**21 NOVEMBER 2026**
 
-<sub>DAY 05 OF THE WEEK · DAY 324 OF 365 · WEEK 47</sub>
+<sub>DAY 06 OF THE WEEK · DAY 325 OF 365 · WEEK 47</sub>
 
-<sub>EXECUTION MODE // DELIVER RESULTS</sub>
+<sub>EXPLORATION MODE // LEARN AND BUILD</sub>
 
-> *"The final mile separates impressive plans from useful systems."*
+> *"Every experiment teaches something that documentation alone cannot."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
