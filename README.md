@@ -8,15 +8,15 @@
 THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### SATURDAY // ENGINEERING MODE
+### SUNDAY // ENGINEERING MODE
 
-**21 NOVEMBER 2026**
+**22 NOVEMBER 2026**
 
-<sub>DAY 06 OF THE WEEK · DAY 325 OF 365 · WEEK 47</sub>
+<sub>DAY 07 OF THE WEEK · DAY 326 OF 365 · WEEK 47</sub>
 
-<sub>EXPLORATION MODE // LEARN AND BUILD</sub>
+<sub>REFLECTION MODE // RESET AND RETHINK</sub>
 
-> *"Every experiment teaches something that documentation alone cannot."*
+> *"Review the system, question the assumptions, and prepare for a better iteration."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
