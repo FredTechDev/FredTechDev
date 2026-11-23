@@ -8,15 +8,15 @@
 THE DAILY ENGINEERING TRANSMISSION
 
 <!-- DAILY-START -->
-### SUNDAY // ENGINEERING MODE
+### MONDAY // ENGINEERING MODE
 
-**22 NOVEMBER 2026**
+**23 NOVEMBER 2026**
 
-<sub>DAY 07 OF THE WEEK · DAY 326 OF 365 · WEEK 47</sub>
+<sub>DAY 01 OF THE WEEK · DAY 327 OF 365 · WEEK 48</sub>
 
-<sub>REFLECTION MODE // RESET AND RETHINK</sub>
+<sub>FOCUS MODE // STRATEGIC EXECUTION</sub>
 
-> *"Review the system, question the assumptions, and prepare for a better iteration."*
+> *"The strongest beginnings are often quiet. Let the results introduce the ambition."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
 <!-- DAILY-END -->
