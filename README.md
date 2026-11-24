@@ -20,17 +20,17 @@
 ## `00 // DAILY ENGINEERING TRANSMISSION`
 
 <!-- DAILY-START -->
+### TUESDAY // ENGINEERING MODE
 
-### MONDAY / 23 NOVEMBER 2026
+**24 NOVEMBER 2026**
 
-`DAY 01 OF THE WEEK` · `DAY 327 OF 365` · `WEEK 48`
+<sub>DAY 02 OF THE WEEK · DAY 328 OF 365 · WEEK 48</sub>
 
-**OPERATIONAL MODE:** STRATEGIC EXECUTION
+<sub>DISCIPLINE MODE // CONSISTENCY OVER COMFORT</sub>
 
-> "The strongest beginnings are often quiet. Let the results introduce the ambition."
+> *"Do not negotiate with the standards you established when your vision was clear."*
 
 **OBSERVE. CALCULATE. ENGINEER. EXECUTE.**
-
 <!-- DAILY-END -->
 
 <div align="center">
