@@ -26,6 +26,7 @@
 
 <img src="https://img.shields.io/badge/ROLE-Software%20Engineer-8BE9FD?style=flat-square&labelColor=111827"/>
 <img src="https://img.shields.io/badge/VENTURE-Technology%20Entrepreneur-8BE9FD?style=flat-square&labelColor=111827"/>
+<img src="https://img.shields.io/badge/FOCUS-System%20Architecture-8BE9FD?style=flat-square&labelColor=111827"/>
 <img src="https://img.shields.io/badge/EDUCATION-MMUST-8BE9FD?style=flat-square&labelColor=111827"/>
 
 </div>
@@ -36,13 +37,20 @@
 
 I am **Fredrick Onyango**, a Software Engineer, Technology Entrepreneur and third-year Information Technology student at **Masinde Muliro University of Science and Technology (MMUST), Kenya**, targeting graduation in 2028.
 
-My work sits at the intersection of software engineering, system architecture, product development and digital innovation.
+My work sits at the intersection of:
 
-I design and build software solutions that address practical problems — from business automation and digital learning platforms to backend systems and intelligent applications.
+- Software Engineering and System Architecture.
+- Backend and Distributed Application Development.
+- Technology Entrepreneurship and Product Innovation.
+- Artificial Intelligence and Applied Research.
+- Data Engineering and Intelligent Systems.
+- Educational Technology and Digital Transformation.
+
+I design and develop software solutions that address practical problems, from business automation and digital learning platforms to backend infrastructure and emerging intelligent applications.
 
 Through **Synbree**, I contribute to building technology products and engineering solutions for businesses, institutions and individuals.
 
-My approach is grounded in understanding the problem, designing the system, engineering the solution and continuously improving its execution.
+My approach is grounded in understanding the problem, designing the system, engineering the solution, validating its behaviour and continuously improving its execution.
 
 > I am interested in more than making software work. I am interested in understanding how systems should work, why they work, and how to engineer them better.
 
@@ -57,10 +65,11 @@ My approach is grounded in understanding the problem, designing the system, engi
 </div>
 
 <details open>
-<summary><b>Python / Data & Intelligent Systems</b></summary>
+<summary><b>Python / Engineering Mindset</b></summary>
 
 ```python
 class EngineeringMindset:
+
     def __init__(self):
         self.principles = [
             "Understand the problem",
@@ -164,9 +173,9 @@ ORDER BY created_at DESC;
 
 ---
 
-## `03 / VENTURES & PRODUCTS`
+## `03 / VENTURES & TECHNOLOGY INITIATIVES`
 
-**Building technology with practical applications.**
+**Building technology. Exploring difficult problems. Engineering practical solutions.**
 
 ### SYNBREE
 
@@ -176,37 +185,117 @@ ORDER BY created_at DESC;
 
 **Ideas. Software. Next.**
 
-A software engineering and digital innovation venture focused on developing solutions for businesses, institutions and individuals.
+Synbree is a Kenyan software engineering and digital innovation venture co-founded by Fredrick Onyango and Michael Onyango.
 
-My involvement centres on technology development, product engineering and innovation.
+Its focus is on engineering software products, backend systems, digital platforms and technology solutions for businesses, institutions and individuals.
+
+Core areas include:
+
+- Software and application engineering.
+- Backend systems, APIs and database architecture.
+- Business process automation.
+- Cloud infrastructure and digital systems.
+- Educational technology.
+- Connectivity and network access solutions.
+- Applied research and technology innovation.
 
 **Building Beyond Imagination.**
 
-### Selected product initiatives
+### BREE LABS BY SYNBREE
+
+<sub>Research & Innovation Division</sub>
+
+**Exploring the boundaries of intelligent systems and applied research.**
+
+BreeLabs is the research and innovation division of Synbree, established to explore meaningful technological problems through structured investigation, experimentation and engineering.
+
+Its research interests include:
+
+- Artificial Intelligence and intelligent agents.
+- Educational simulation and computational learning.
+- Human cognition and learning behaviour.
+- Multi-agent systems.
+- Data-driven modelling.
+- Applied technology research.
+
+#### Flagship research programme: BreeLabs EduSim
+
+**Educational Simulation & Intelligent Learning Systems**
+
+BreeLabs EduSim explores the design of computational environments capable of simulating diverse classroom scenarios through interacting synthetic learner agents.
+
+The research investigates:
+
+- Synthetic learner modelling.
+- Multi-agent classroom simulations.
+- Different learning behaviours and cognitive profiles.
+- Misconceptions and knowledge acquisition.
+- Instructional strategies and their simulated effects.
+- Teacher-facing experimentation and scenario analysis.
+- Empirical calibration and research validation.
+
+The long-term research direction is to explore how computational simulations can support educational research, instructional experimentation and better-informed teaching decisions.
+
+*EduSim is a research programme. Its simulated learners are computational models, not real children, and simulation outputs are not automatically evidence of actual educational outcomes.*
+
+### SYNBREE AQUACULTURE
+
+<sub>Emerging Sector Innovation & Research Initiative</sub>
+
+**Engineering solutions around aquaculture value-chain realities.**
+
+Synbree Aquaculture explores technology opportunities within the aquaculture ecosystem, with an initial focus on understanding operational challenges affecting farmers, suppliers and other value-chain participants.
+
+The initiative is informed by local aquaculture realities and an interest in developing practical, accessible digital infrastructure.
+
+Initial areas of investigation:
+
+- Aquaculture procurement workflows.
+- Farmer and supplier coordination.
+- Feed and input sourcing.
+- Value-chain information management.
+- Digital transaction and operational records.
+- Data-driven aquaculture decision support.
+
+**Initial engineering direction:**
+
+- Modular backend architecture.
+- PostgreSQL relational database.
+- Procurement-first workflow.
+- Multi-account system design.
+- Domain-driven and maintainable application structure.
+
+*This is an emerging research and product-development initiative. Field validation and implementation remain part of its development journey.*
+
+### SELECTED PRODUCTS & PRODUCT INITIATIVES
 
 | PRODUCT | ENGINEERING DOMAIN |
 |:---|:---|
-| **Apex-Rental** | Rental management, property operations, tenant management and automation. |
+| **Apex-Rental** | Property and rental management, tenant operations and automation. |
 | **Kilele Archade** | CBC-focused digital learning, intelligent tutoring and educational technology. |
 | **Zoomenet** | Captive portal and network access management for internet service providers. |
-| **Naoja Retail Shop** | Retail management and e-commerce modernization. |
+| **Naoja Retail Shop** | Retail management and digital commerce modernization. |
 
-### Kilele Archade
+### KILELE ARCHade
 
 <a href="https://kilelearchade.co.ke/">
 <img src="https://img.shields.io/badge/EXPLORE-KILELE%20ARCHADE-111827?style=flat-square&logo=googlechrome&logoColor=8BE9FD"/>
 </a>
 
-An educational technology initiative focused on improving learning experiences through digital tools, structured educational content and intelligent learning support.
+**Technology-enabled learning experiences.**
 
-### Engineering priorities
+Kilele Archade is an educational technology and learning-delivery initiative focused on improving learning experiences through digital tools, structured educational content and intelligent learning support.
 
-- Practical problem-solving.
-- Maintainable application architecture.
-- Secure authentication and authorization.
-- Database design and optimization.
-- User-centred product development.
-- Scalable backend systems.
+Its areas of interest include:
+
+- Competency-Based Curriculum learning support.
+- Interactive educational content.
+- Digital assessments and quizzes.
+- AI-assisted tutoring.
+- Teacher and learner experiences.
+- Accessible programming education.
+
+Kilele Archade remains a distinct learning initiative, with potential opportunities to benefit from research and innovation emerging from BreeLabs EduSim.
 
 ---
 
@@ -214,60 +303,71 @@ An educational technology initiative focused on improving learning experiences t
 
 My technical interests and working environment span multiple engineering disciplines.
 
-### Programming languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,go,c,cpp&theme=dark"/>
 </p>
 
-### Frontend engineering
+### Frontend Engineering
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark"/>
 </p>
 
-### Backend engineering
+### Backend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,spring,django,fastapi&theme=dark"/>
 </p>
 
-### Mobile development
+**Backend engineering focus:**
+
+- Go — backend services and API development.
+- Java / Spring Boot — structured enterprise application development.
+- Node.js / Express — API and application development.
+- Python / Django / FastAPI — backend applications and intelligent systems.
+- REST API design and integration.
+- Authentication and authorization.
+- Modular architecture and maintainable services.
+
+### Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,kotlin,flutter,androidstudio,expo&theme=dark"/>
 </p>
 
-### Databases and data technologies
+### Databases and Data Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark"/>
 </p>
 
-### AI, machine learning and data science
+### AI, Machine Learning and Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark"/>
 </p>
 
-### Infrastructure, DevOps and tools
+### Infrastructure, DevOps and Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,aws,git,github,vscode,postman,figma&theme=dark"/>
 </p>
 
-### Engineering disciplines
+### Engineering Disciplines
 
 | DOMAIN | FOCUS |
 |:---|:---|
-| Software Engineering | Application development and software design |
-| Backend Engineering | APIs, business logic, authentication and authorization |
+| Software Engineering | Application development, design patterns and software quality |
+| Backend Engineering | APIs, business logic, services and access control |
 | System Architecture | Modular design, DDD and Hexagonal Architecture |
-| Database Engineering | Relational modelling, SQL and data management |
-| AI Engineering | Intelligent applications and machine learning exploration |
+| Database Engineering | Relational modelling, SQL and optimization |
+| AI Engineering | Intelligent applications and machine learning |
 | Data Engineering | Data processing, analytics and information systems |
-| Cloud & DevOps | Containers, infrastructure and deployment practices |
+| Cloud & DevOps | Containers, infrastructure and deployment |
 | Mobile Engineering | Cross-platform application development |
+| Research Engineering | Computational modelling, simulation and experimentation |
 
 ---
 
@@ -277,7 +377,7 @@ I approach engineering with an emphasis on sound technical decisions and long-te
 
 **01 — Problem before technology**
 
-Understand the requirements and constraints before choosing a stack.
+Understand requirements, users and constraints before choosing a technology stack.
 
 **02 — Architecture before complexity**
 
@@ -289,13 +389,17 @@ Build solutions that can be understood, tested, extended and maintained.
 
 **04 — Security by design**
 
-Treat access control, validation and data protection as core engineering concerns.
+Treat authentication, access control, validation and data protection as core engineering concerns.
 
-**05 — Documentation as engineering**
+**05 — Evidence before assumptions**
+
+Validate technical decisions through testing, experimentation and reliable evidence.
+
+**06 — Documentation as engineering**
 
 A system should be understandable beyond the person who initially built it.
 
-**06 — Execution over noise**
+**07 — Execution over noise**
 
 Prioritize functional products, measurable progress and continuous improvement.
 
@@ -303,19 +407,21 @@ Prioritize functional products, measurable progress and continuous improvement.
 
 ## `06 / CURRENT DEVELOPMENT FOCUS`
 
-My current technical development priorities include:
+My current development priorities are centred on strengthening engineering depth while exploring new technological possibilities.
 
 | AREA | DIRECTION |
 |:---|:---|
 | Go | Backend engineering and service development |
 | PostgreSQL | Relational database architecture and optimization |
 | System Design | DDD, Hexagonal Architecture and modular systems |
-| AI/ML | Intelligent applications and applied machine learning |
+| AI / ML | Intelligent applications and applied machine learning |
+| Multi-Agent Systems | Agent behaviour, interaction and simulation |
+| Research Engineering | Educational simulation and computational modelling |
 | Cloud Engineering | Infrastructure, containers and deployment |
 | Data Science | Analytical thinking and data-driven applications |
 | Software Education | Programming instruction and technical mentorship |
 
-I also work on educational technology and contribute to making programming and technology more accessible through practical learning initiatives.
+I am particularly interested in connecting theoretical understanding with practical engineering.
 
 ---
 
@@ -341,15 +447,17 @@ Technology is not simply about writing instructions for machines.
 
 It is about understanding human problems, designing better processes and creating systems that make meaningful work possible.
 
-I am particularly interested in:
+My broader interests include:
 
 - African technology ecosystems and digital transformation.
 - Educational technology and accessible programming education.
-- Intelligent software systems.
+- Human cognition, learning and intelligent systems.
 - Entrepreneurship and technology product development.
+- Applied research and computational experimentation.
 - Software architecture and engineering excellence.
+- Building technology with practical social and economic relevance.
 
-I believe that engineering ability grows through curiosity, discipline, collaboration and consistent execution.
+I believe engineering ability grows through curiosity, discipline, collaboration, critical thinking and consistent execution.
 
 ---
 
@@ -357,7 +465,14 @@ I believe that engineering ability grows through curiosity, discipline, collabor
 
 Have a technical challenge, a product idea, an engineering opportunity or a meaningful collaboration in mind?
 
-I am open to conversations around software engineering, technology innovation, product development and research.
+I am open to conversations around:
+
+- Software engineering and backend development.
+- System architecture and technical consulting.
+- AI, machine learning and applied research.
+- Educational technology and simulation research.
+- Technology entrepreneurship and product development.
+- Open-source collaboration.
 
 <div align="center">
 
